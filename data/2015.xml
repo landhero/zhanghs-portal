@@ -1,0 +1,168 @@
+<Data>
+    <Record>
+        <Date>
+            <Year>2015</Year>
+            <Month>1</Month>
+            <Day>4</Day>
+        </Date>
+        <Title>Scala编程</Title>
+        <Authors>
+            <Author>Martin Odersky</Author>
+            <Author>Lex Spoon</Author>
+            <Author>Bill Venners</Author>
+            <Translator>黄海旭</Translator>
+            <Translator>高宇翔</Translator>
+        </Authors>
+        <Publisher>电子工业出版社</Publisher>
+        <PublishYear>2010</PublishYear>
+        <Comment/>
+    </Record>
+    <Record>
+        <Date>
+            <Year>2015</Year>
+            <Month>1</Month>
+            <Day>11</Day>
+        </Date>
+        <Title>Maven实战</Title>
+        <Authors>
+            <Author>许晓彬</Author>
+        </Authors>
+        <Publisher>机械工业出版社</Publisher>
+        <PublishYear>2011</PublishYear>
+        <Comment/>
+    </Record>
+    <Record>
+        <Date>
+            <Year>2015</Year>
+            <Month>1</Month>
+            <Day>18</Day>
+        </Date>
+        <Title>敏捷软件开发：原则、模式与实践</Title>
+        <Authors>
+            <Author>Robert C.Martin</Author>
+            <Translator>邓辉</Translator>
+            <Translator>孟岩</Translator>
+        </Authors>
+        <Publisher>清华大学出版社</Publisher>
+        <PublishYear>2003</PublishYear>
+        <Comment/>
+    </Record>
+    <Record>
+        <Date>
+            <Year>2015</Year>
+            <Month>1</Month>
+            <Day>25</Day>
+        </Date>
+        <Title>不敢止步:一个软件工匠的12年</Title>
+        <Authors>
+            <Author>熊节</Author>
+        </Authors>
+        <Publisher>人民邮电出版社</Publisher>
+        <PublishYear>2014</PublishYear>
+        <Comment/>
+    </Record>
+    <Record>
+        <Date>
+            <Year>2015</Year>
+            <Month>3</Month>
+            <Day>1</Day>
+        </Date>
+        <Title>傅斯年讲中国古文学代史</Title>
+        <Authors>
+            <Author>傅斯年</Author>
+        </Authors>
+        <Publisher>当代世界出版社</Publisher>
+        <PublishYear>2014</PublishYear>
+        <Comment>太多不懂</Comment>
+    </Record>
+    <Record>
+        <Date>
+            <Year>2015</Year>
+            <Month>3</Month>
+            <Day>8</Day>
+        </Date>
+        <Title>Refactoring to Patterns</Title>
+        <Authors>
+            <Author>Joshua Kerievsky</Author>
+        </Authors>
+        <Publisher>Addison Wesley</Publisher>
+        <PublishYear>2004</PublishYear>
+        <Comment/>
+    </Record>
+    <Record>
+        <Date>
+            <Year>2015</Year>
+            <Month>3</Month>
+            <Day>12</Day>
+        </Date>
+        <Title>The Mythical Man-Month</Title>
+        <Authors>
+            <Author>Frederick P. Brooks Jr.</Author>
+        </Authors>
+        <Publisher>Addison-Wesley Professional</Publisher>
+        <PublishYear>1995</PublishYear>
+        <Comment/>
+    </Record>
+    <Record>
+        <Date>
+            <Year>2015</Year>
+            <Month>3</Month>
+            <Day>24</Day>
+        </Date>
+        <Title>The Pragmatic Programmer: From Journeyman to Master</Title>
+        <Authors>
+            <Author>Andrew Hunt</Author>
+            <Author>David Thomas</Author>
+        </Authors>
+        <Publisher>Addison-Wesley Professional</Publisher>
+        <PublishYear>1999</PublishYear>
+        <Comment/>
+    </Record>
+    <Record>
+        <Date>
+            <Year>2015</Year>
+            <Month>3</Month>
+            <Day>28</Day>
+        </Date>
+        <Title>漂浮的城市</Title>
+        <Authors>
+            <Author>儒勒·凡尔纳</Author>
+            <Translator>侯雪梅</Translator>
+        </Authors>
+        <Publisher>译林出版社</Publisher>
+        <PublishYear>2010</PublishYear>
+        <Comment/>
+    </Record>
+    <Record>
+        <Date>
+            <Year>2015</Year>
+            <Month>3</Month>
+            <Day>29</Day>
+        </Date>
+        <Title>一个中国人在中国的遭遇</Title>
+        <Authors>
+            <Author>儒勒·凡尔纳</Author>
+            <Translator>威廉·鲍卓贤</Translator>
+            <Translator>王仁才</Translator>
+        </Authors>
+        <Publisher>安徽教育出版社</Publisher>
+        <PublishYear>2010</PublishYear>
+        <Comment/>
+    </Record>
+    <Record>
+        <Date>
+            <Year>2015</Year>
+            <Month>4</Month>
+            <Day>1</Day>
+        </Date>
+        <Title>当顺治遇上老子 御注道德经赏析</Title>
+        <Authors>
+            <Author>老子</Author>
+            <Author>爱新觉罗·福临</Author>
+            <Translator>将门马</Translator>
+        </Authors>
+        <Publisher>故宫出版社</Publisher>
+        <PublishYear>2014</PublishYear>
+        <Comment/>
+    </Record>
+</Data>

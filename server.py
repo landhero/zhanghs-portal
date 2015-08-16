@@ -12,5 +12,5 @@ def root_url():
 app.register_blueprint(book.book, url_prefix='/book')
 
 if __name__ == '__main__':
-    run_simple('0.0.0.0', 8080, app,
+    run_simple('0.0.0.0', 80, app,
                use_reloader=True, use_debugger=True, use_evalex=True)
